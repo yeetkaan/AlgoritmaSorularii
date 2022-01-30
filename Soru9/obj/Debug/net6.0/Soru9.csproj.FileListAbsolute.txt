@@ -1,0 +1,15 @@
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net6.0\Soru9.exe
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net6.0\Soru9.deps.json
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net6.0\Soru9.runtimeconfig.json
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net6.0\Soru9.dll
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net6.0\ref\Soru9.dll
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\bin\Debug\net6.0\Soru9.pdb
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.csproj.AssemblyReference.cache
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.AssemblyInfoInputs.cache
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.AssemblyInfo.cs
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.csproj.CoreCompileInputs.cache
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.dll
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\ref\Soru9.dll
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.pdb
+C:\Users\Algos YK\source\repos\AlgoritmaSorulari\Soru9\obj\Debug\net6.0\Soru9.genruntimeconfig.cache

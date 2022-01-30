@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Soru4/1.0.0": {
+        "dependencies": {
+          "Soru5": "1.0.0"
+        },
+        "runtime": {
+          "Soru4.dll": {}
+        }
+      },
+      "Soru5/1.0.0": {
+        "runtime": {
+          "Soru5.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Soru4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Soru5/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
